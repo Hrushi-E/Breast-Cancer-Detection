@@ -8,11 +8,17 @@ Then compared against some regression models from scikit-learn. For each ML mode
 Here are the algorithms used:
 
 1 Logistic Regression	
+
 2	Decision Tree	
+
 3	Random Forest
+
 4	Gradient Boosting	
+
 5	SVC	
+
 6	KNN	
+
 7 XGBoost
 
 Before Hyperparameter tuning, the results are as follows:
